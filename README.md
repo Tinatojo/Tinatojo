@@ -36,9 +36,6 @@
 <img src="https://raw.githubusercontent.com/Tinatojo/Tinatojo/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3152my6sd3br7c4ljf3visjz2d74)
-</div>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3152my6sd3br7c4ljf3visjz2d74&unique={true|1|on|yes})
 
 ###

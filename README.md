@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Dino and I'm a Web developer from Madagascar</h2>
+<h2 align="left">👋 Hola, I'm Dino! Passionate Developer Crafting Innovative Solutions 🚀</h2>
 
 ###
 
